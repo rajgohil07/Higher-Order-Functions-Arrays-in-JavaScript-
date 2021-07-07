@@ -49,13 +49,21 @@ console.log(mapped_name_birth_array);
 
 const mapped_name_birth_object = data.map(({ name, birth, death }) => ({ name, birth, death }));
 //name and birth and death with all converted in object and give new array
-console.log('name and birth and death with all converted in object and give new array of object');
+console.log('\nname and birth and death with all converted in object and give new array of object\n');
 console.log(mapped_name_birth_object);
+
+const user_years_old = data.map(x => `${x.name} is ${x.death - x.birth} years old!`);
+//here it will print user name with its lifespan in array
+console.log("\nuser name with its lifespan\n");
+console.log(user_years_old);
+console.log("\nconversion of above array to string\n");
+//it will print user name with its lifespan as a strings
+console.log(user_years_old.join('\n'));
 
 //sort method
 const sort_by_birth = data.sort((a, b) => a.birth - b.birth);
 //this will sort array with asseneding birthdate
-console.log('sorted with Assending order by birth', sort_by_birth);
+console.log('\nsorted with Assending order by birth', sort_by_birth);
 
 //reduce method
 const count_of_all_life = data.reduce((a, b) => a + (b.death - b.birth), 0);
