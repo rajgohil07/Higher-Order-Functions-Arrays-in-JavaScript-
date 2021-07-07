@@ -1,4 +1,4 @@
-# Higher-Order-Functions-Arrays-in-JavaScript-
+# Higher-Order-Functions-Arrays-in-JavaScript
 JavaScript Higher Order Functions &amp; Arrays
 # Methods which are used listed below
 
