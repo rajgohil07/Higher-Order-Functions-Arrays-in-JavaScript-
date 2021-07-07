@@ -8,7 +8,7 @@ Reduce <br>
 Filter <br>
 Find <br>
 Sort <br>
-Foreach <br>
+Foreach <br> <br>
 </b>
 
 this will serve to explain the thoughts of JavaScript Higher Order Functions & Arrays when to use which function to reconstruct the provided array
