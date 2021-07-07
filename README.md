@@ -13,9 +13,10 @@ Sort <br>
 Foreach <br> <br>
 </b>
 
-this will serve to explain the thoughts of JavaScript Higher Order Functions & Arrays when to use which function to reconstruct the provided array
+This will serve to explain the thoughts of JavaScript Higher Order Functions & Arrays when to use which function to reconstruct the provided array
 
-Extra additional array methods are included in <b>additional_array_functions.js</b> file <br>
+Extra additional array methods are included in <b>additional_array_functions.js</b> file <br> <br>
+<b>
 concat <br>
 copyWithin <br>
 entries <br>
@@ -28,3 +29,4 @@ for each (best example) <br>
 from <br>
 includes <br>
 indexOf <br>
+</b>
