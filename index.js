@@ -35,7 +35,7 @@ const find_married_Woman = data.find(x => x.gender === 2 && x.married === 1);
 //this will print only single object
 console.log('\nsingle first list of married woman!', find_married_Woman);
 
-//filtermethod
+//filter method
 const filter_married_women = data.filter(x => x.gender === 2 && x.married === 1);
 //this will print all womans name who is married
 console.log('\nAll list of married women');
