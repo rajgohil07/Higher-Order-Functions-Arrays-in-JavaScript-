@@ -115,3 +115,12 @@ console.log('will search for', search_val, fruits.includes(search_val), '\n');
 const search_index = 'Mango';
 console.log('required array', fruits);
 console.log('will return index of', search_index, ' is', fruits.indexOf(search_index));
+
+
+//Array splice()
+//Syntax array.splice(index, howmany, item1, ....., itemX)
+console.log("\nremove int 3 and add string '3'")
+const arr_ = ['1', '2', 3, '4', '5'];
+console.log("\nbefore splice", arr_);
+arr_.splice(2, 1, '3');
+console.log("after splice", arr_);
