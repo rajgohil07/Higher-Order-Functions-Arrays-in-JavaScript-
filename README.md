@@ -16,6 +16,7 @@ Foreach <br> <br>
 # More info:
 <b>link : </b>https://www.w3schools.com/jsref/jsref_obj_array.asp <br>
 
+# Additional array functions
 
 This will serve to explain the thoughts of JavaScript Higher Order Functions & Arrays when to use which function to reconstruct the provided array
 
