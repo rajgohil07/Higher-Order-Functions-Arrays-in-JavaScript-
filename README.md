@@ -13,6 +13,10 @@ Sort <br>
 Foreach <br> <br>
 </b>
 
+# More info:
+<b>link : </b>https://www.w3schools.com/jsref/jsref_obj_array.asp <br>
+
+
 This will serve to explain the thoughts of JavaScript Higher Order Functions & Arrays when to use which function to reconstruct the provided array
 
 Extra additional array methods are included in <b>additional_array_functions.js</b> file <br> <br>
